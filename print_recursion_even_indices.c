@@ -11,6 +11,7 @@ void print_even_indices(int arr[],int n, int i){
     }
 }
 
+
 int main() {
     int n;
     scanf("%d", &n);
